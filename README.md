@@ -1,6 +1,7 @@
 # Variational auto-encoder for learning dynamics model
 
 This VAE network can predict the next states of the environment given the current state and action.
+Tested on ai safety grid world environments by DeepMind. I have written a gym wrapper for the same here [Gym AI Safety Gridworlds](https://github.com/bharatprakash/ai-safety-gridworlds)
 
 ## Results
 
