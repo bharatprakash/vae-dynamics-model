@@ -7,12 +7,15 @@ This VAE network can predict the next states of the environment given the curren
 #### After 50 epochs
 
 States
+
 ![50 input](/dc_img/image_50_i.png "50 input")
 
 True next states
+
 ![50 true](/dc_img/image_50_t.png "50 true")
 
 Predicted next states
+
 ![50 pred](/dc_img/image_50.png "50 pred")
 
 
