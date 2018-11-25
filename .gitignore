@@ -1,0 +1,7 @@
+*~
+*.pyc
+.DS_store
+.ftpconfig
+*.out
+*.tmp
+*.swp
