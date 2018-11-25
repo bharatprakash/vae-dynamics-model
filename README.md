@@ -8,7 +8,7 @@ This VAE network can predict the next states of the environment given the curren
 
 States
 
-![50 input](/dc_img/image_50_i.png "50 input")
+<img src="/dc_img/image_50_i.png" width=500px>
 
 True next states
 
